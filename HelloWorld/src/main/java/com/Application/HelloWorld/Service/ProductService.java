@@ -20,7 +20,7 @@ public class ProductService {
     public List<ProductResponseDTO> findAll() {
         List<Product> product=productRepository.findAll();
         return product.stream().map(Mapper::getProductResponseDTO).toList();
-    }   
+    }
 
     public ProductResponseDTO save(ProductRequestDTO productRequestDTO) {
         Product product=Mapper.getProductRequestDTO(productRequestDTO);
