@@ -19,5 +19,9 @@ spring:
     swagger-ui:
       enabled: true
       path: /swagger-ui.html
+jwt:
+  secret: mySuperSecretKeyForJwtGeneration123456
+  expiration: 3600000 # 1 hour
+
 
 

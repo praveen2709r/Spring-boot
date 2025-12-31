@@ -5,68 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c45fdca-481f-4b93-8aa1-12828d0e1394" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ProductService.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductService/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductService/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductService/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductService/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductService/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductService/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductService/src/main/java/com/Ecommerce/ProductService/Config/OpenApiSwagger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductService/src/main/java/com/Ecommerce/ProductService/Controller/ProductController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductService/src/main/java/com/Ecommerce/ProductService/DTO/Mapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductService/src/main/java/com/Ecommerce/ProductService/DTO/ProductRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductService/src/main/java/com/Ecommerce/ProductService/DTO/ProductResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductService/src/main/java/com/Ecommerce/ProductService/Entity/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductService/src/main/java/com/Ecommerce/ProductService/Errors/APIError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductService/src/main/java/com/Ecommerce/ProductService/Errors/GlobalExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductService/src/main/java/com/Ecommerce/ProductService/ExceptionHandling/ProductNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductService/src/main/java/com/Ecommerce/ProductService/ExceptionHandling/UserAlreadyExistException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductService/src/main/java/com/Ecommerce/ProductService/ProductServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductService/src/main/java/com/Ecommerce/ProductService/Repository/ProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductService/src/main/java/com/Ecommerce/ProductService/Service/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductService/src/main/java/com/Ecommerce/ProductService/Service/ProductServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductService/src/main/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductService/src/test/java/com/Ecommerce/ProductService/ProductServiceApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/HelloWorld (1).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSAproblems/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSAproblems/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSAproblems/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSAproblems/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSAproblems/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSAproblems/src/main/java/org/example/Sorting/BubbleSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSAproblems/src/main/java/org/example/Sorting/InsertionSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSAproblems/src/main/java/org/example/Sorting/MergeSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSAproblems/src/main/java/org/example/Sorting/QuickSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSAproblems/src/main/java/org/example/Sorting/SelectionSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/src/main/java/com/Application/HelloWorld/Config/SecurityWebConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/src/main/java/com/Application/HelloWorld/Controller/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/src/main/java/com/Application/HelloWorld/Controller/ProductController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/src/main/java/com/Application/HelloWorld/DTO/Mapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/src/main/java/com/Application/HelloWorld/DTO/ProductRequestDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/src/main/java/com/Application/HelloWorld/DTO/ProductResponseDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/src/main/java/com/Application/HelloWorld/Entity/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/src/main/java/com/Application/HelloWorld/Errors/Error.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/src/main/java/com/Application/HelloWorld/Errors/ProductResponseExceptionHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/src/main/java/com/Application/HelloWorld/ExceptionHandling/ProductNotFoundException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/src/main/java/com/Application/HelloWorld/HelloWorldApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/src/main/java/com/Application/HelloWorld/Repository/ProductRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/src/main/java/com/Application/HelloWorld/Service/ProductService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/src/main/resources/application.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/src/test/java/com/Application/HelloWorld/HelloWorldApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ProductService/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductService/src/main/java/com/Ecommerce/ProductService/Config/WebSecurityFilterChain.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductService/src/main/java/com/Ecommerce/ProductService/Config/WebSecurityFilterChain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductService/src/main/java/com/Ecommerce/ProductService/Controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductService/src/main/java/com/Ecommerce/ProductService/Controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductService/src/main/java/com/Ecommerce/ProductService/DTO/LoginRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductService/src/main/java/com/Ecommerce/ProductService/DTO/LoginRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductService/src/main/java/com/Ecommerce/ProductService/Service/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductService/src/main/java/com/Ecommerce/ProductService/Service/AuthService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductService/src/main/java/com/Ecommerce/ProductService/Service/CustomUserDetailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductService/src/main/java/com/Ecommerce/ProductService/Service/CustomUserDetailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductService/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/ProductService/src/main/resources/application.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,9 +29,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="37WW3vXqHr0J0AsOf8wr0PEKhNp" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -94,17 +40,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ProductServiceApplication.executor": "Debug",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Rebasing master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Prave/Downloads/ProductService"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ProductServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Prave/Downloads/ProductService&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="ProductServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Ecommerce.ProductService.ProductServiceApplication" />
